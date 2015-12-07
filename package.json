@@ -1,0 +1,25 @@
+{
+  "name": "seamless-immutable-json-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishp1/seamless-immutable-json-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishp1/seamless-immutable-json-loader/issues"
+  },
+  "homepage": "https://github.com/nishp1/seamless-immutable-json-loader#readme",
+  "peerDependencies": {
+    "seamless-immutable": "*"
+  },
+  "dependencies": {
+    "loader-utils": "~0.2.12"
+  }
+}
